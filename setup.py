@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-	name='pyvisitor',
+    name='pyvisitor',
     version='1.0',
     description='An implementation of the visitor pattern for Python',
     author='Curtis Schlak',
